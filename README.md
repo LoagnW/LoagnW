@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LoagnW
-- 👀 I’m interested in learning Enginiering.
+- 👀 I’m interested in learning engineering.
 - 🌱 I’m currently learning CSA
-- 💞️ I’m looking to collaborate on prodjects
+- 💞️ I’m looking to collaborate on projects
 
 
 <!---
